@@ -37,11 +37,11 @@ The model was evaluated over **50 epochs** on a validation split of 20%.
 
 ## 📂 Visuals
 ### 1. Training Performance
-![Accuracy Graph](INSERT_GRAPH_LINK_HERE)
+![Accuracy Graph](accuracy graphs.png)
 *Figure 1: Training vs. Validation Accuracy over 50 epochs, showing stable convergence.*
 
 ### 2. Disease Prediction
-![Prediction Sample](INSERT_LEAF_LINK_HERE)
+![Prediction Sample](leaf_image.png)
 *Figure 2: Model successfully classifying a leaf pathology from the test set.*
 
 ## 🔮 Future Work: "Plant Talking" 🌱
