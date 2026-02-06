@@ -37,7 +37,7 @@ The model was evaluated over **50 epochs** on a validation split of 20%.
 
 ## 📂 Visuals
 ### 1. Training Performance
-![Accuracy Graph](accuracy graphs.png)
+![Accuracy Graph](accuracy_graphs.png)
 *Figure 1: Training vs. Validation Accuracy over 50 epochs, showing stable convergence.*
 
 ### 2. Disease Prediction
